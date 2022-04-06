@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app.dir/main.cpp.o CMakeFiles/app.dir/glad.c.o CMakeFiles/app.dir/stb.cpp.o  -o app  /usr/lib/x86_64-linux-gnu/libGL.so /usr/local/lib/libglfw3.a /usr/lib/x86_64-linux-gnu/liblua5.1.so -lm libimgui.a -llua5.1 /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so -lpthread 
